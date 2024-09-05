@@ -25,6 +25,9 @@ Utilizei o Bing Image Creator para gerar imagens que complementam visualmente o 
 
 O e-book "Convivendo em um Ambiente Saudável em Meio às Demandas e Pressões Profissionais" foi produzido, combinando informações práticas e exemplos reais para orientar os leitores na criação de um ambiente de trabalho equilibrado e saudável. As imagens e o texto trabalham em conjunto para proporcionar uma experiência de leitura enriquecedora e informativa.
 
+[Convivendo em um Ambiente Saudável em Meio às Demandas e Pressões Profissionais.pdf](https://github.com/user-attachments/files/16885890/Convivendo.em.um.Ambiente.Saudavel.em.Meio.as.Demandas.e.Pressoes.Profissionais.pdf)
+
+
 ## 💭 Reflexão (Opcional)
 
 O uso de ferramentas de inteligência artificial na criação deste e-book demonstrou como a tecnologia pode ser um recurso valioso na produção de conteúdo de qualidade. A capacidade de gerar texto e imagens de forma rápida e eficiente oferece novas possibilidades para abordar temas complexos e fornecer soluções práticas para desafios profissionais.
