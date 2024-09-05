@@ -1,8 +1,11 @@
 E-book sobre Convivendo em um Ambiente Saudável em Meio às Demandas e Pressões Profissionais
 
+
+
 📒 Descrição
 
 O projeto é um e-book que oferece orientações e estratégias para criar e manter um ambiente de trabalho saudável, apesar das demandas e pressões profissionais. O texto e as imagens foram gerados com o auxílio de inteligência artificial, refletindo a aplicabilidade prática das ideias discutidas.
+
 
 🤖 Tecnologias Utilizadas
 
@@ -10,6 +13,8 @@ Para a realização do projeto foram empregadas as seguintes ferramentas de IA:
 
 ChatGPT (OpenAI) para a produção do texto.
 Bing Image Creator (Microsoft) para a criação das imagens ilustrativas incluídas no e-book.
+
+
 
 🧐 Processo de Criação
 
